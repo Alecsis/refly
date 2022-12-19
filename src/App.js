@@ -1,10 +1,11 @@
-import React from "react";
+import React from 'react';
+import Analytics from './componets/Analytics';
+import Cards from './componets/Cards';
+import Footer from './componets/Footer';
+import Hero from './componets/Hero';
 import Navbar from './componets/Navbar';
-import Hero from "./componets/Hero";
-import Analytics from "./componets/Analytics";
-import Newsletter from "./componets/Newsletter";
-import Cards from "./componets/Cards";
-import Footer from "./componets/Footer";
+import Newsletter from './componets/Newsletter';
+
 
 
 function App() {
